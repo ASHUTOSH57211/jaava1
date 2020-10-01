@@ -1,3 +1,5 @@
-int a = 5;
-int b = 10;
-int add = a+b;
+public class addTwo{
+  public static void main(String args[]){
+    int a = 5;
+    int b = 10;
+    System.out.println("the sum is "a+b);
