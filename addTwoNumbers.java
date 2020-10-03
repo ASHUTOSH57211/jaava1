@@ -1,3 +1,9 @@
+
+public class addTwo{
+  public static void main(String args[]){
+    int a = 5;
+    int b = 10;
+    System.out.println("the sum is "a+b);
  patch-1
 public class addNum{
   public static void main(String args[]){
@@ -21,4 +27,5 @@ public class addtw{
     System.out.println("the sum is "+ a+b);
   }
 }
+
 
